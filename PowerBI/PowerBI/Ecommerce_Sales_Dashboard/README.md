@@ -25,5 +25,13 @@ To analyze e-commerce sales performance and identify trends in revenue, profit, 
 - DAX
 - Data Modeling
 
+## Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](sales_trends.png)
+
+### Sales & Profit Analysis
+![Sales Trends](sales_trends (2).png)
+
 
 
