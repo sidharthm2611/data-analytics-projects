@@ -33,5 +33,6 @@ To analyze e-commerce sales performance and identify trends in revenue, profit, 
 ### Sales & Profit Analysis
 ![Dashboard Overview](sales_trends_2.png)
 
-
+**Key Insight:**  
+Profit shows noticeable fluctuations across months, with certain periods experiencing losses. This highlights seasonal demand variations and indicates opportunities for cost optimization and targeted sales strategies during low-profit months.
 
