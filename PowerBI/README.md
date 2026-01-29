@@ -11,3 +11,4 @@ This folder contains my Power BI dashboards focused on business insights and dat
 
 ## Projects
 - E-commerce Sales Dashboard
+- Superstore Sales Dashboard
