@@ -30,5 +30,8 @@ regions, categories, segments, and time to uncover key business insights.
 ### Month Sales & Profit by Year-over-Year
 ![Sales & Profit YoY](SALES_DASHBOARD_YoY.png)
 
-### Month Profit by Year-over-Year
-![Profit YoY](profit_yoy.png)
+## Key Insights
+- Sales show a steady year-over-year growth trend, with a significant increase during the last quarter, indicating strong seasonal demand.
+- Profit follows a similar upward pattern but experiences fluctuations mid-year, suggesting margin pressure from discounts or operational costs.
+- The highest sales and profit are observed in December, making Q4 the most critical period for revenue and profitability.
+
